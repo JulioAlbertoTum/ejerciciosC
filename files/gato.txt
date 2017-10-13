@@ -1,0 +1,4 @@
+una gato
+dos gatos
+tres gatos 
+cuatro gatos
